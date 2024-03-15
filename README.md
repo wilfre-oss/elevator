@@ -1,14 +1,14 @@
-#To build project
+# To build project
 ```bash
 cmake CMakeList.txt
 make
 ```
-
 or use an IDE with CMakeList integration, e.g. CLion
 
-#Start controller
+# Start controller
+
 `./controller.exe <host> <port>`
 example > `./controller.exe localhost 4711`
 
-#NOTE 
+# NOTE 
 This was developed and tested on windows, errors might occur on UNIX systems
