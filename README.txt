@@ -1,7 +1,8 @@
 To build project:
-
-1) > `cmake CMakeList.txt`
-2) > `make`
+```bash
+cmake CMakeList.txt
+make
+```
 
 or use an IDE with CMakeList integration, e.g. CLion
 
